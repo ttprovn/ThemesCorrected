@@ -24,9 +24,9 @@
             "#102b47"
         ],
         "BACKGROUND_MENTIONED": [
-            "#bdae931a",
-            "#665c541a",
-            "#bdae931a"
+            "#faa61a",
+            "#faa61a",
+            "#faa61a"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
             "#bdae931a",
@@ -349,9 +349,9 @@
             "#83a598"
         ],
 	"MENTION_FOREGROUND": [
-	    "#ffffff",
-	    "#ffffff",
-	    "#ffffff"
+	    "#faa61a",
+	    "#faa61a",
+	    "#faa61a"
 	],
         "MODAL_FOOTER_BACKGROUND": [
             "#0a2848",
